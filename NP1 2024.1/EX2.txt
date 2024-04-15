@@ -1,0 +1,9 @@
+EX2)
+
+a) Falso o codigo está escrito em lua.
+
+b) Falso o codigo preenche a tabela com numeros aleotorios entre 1 a 100
+
+c) Falso o contador será incrementado toda vez que um numero for impár
+
+d) Verdadeiro
