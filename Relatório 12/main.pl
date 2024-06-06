@@ -41,6 +41,6 @@ aprovado(X) :-
 
 % Ex 2)
 % Consulta para os alunos aprovados:
-?- aprovado(X).
+% ?- aprovado(X).
 % X = maria ;
 % X = ana.
