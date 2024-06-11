@@ -1,0 +1,23 @@
+QUESTÃO 01)
+
+movie(M, 2006).
+
+
+QUESTÃo 02)
+
+
+movie(M, Y), Y < 2001.
+
+
+QUESTÃO 03)
+
+
+movie(M, Y), Y>= 2000, Y =< 2006.
+
+
+QUESTÃO 04)
+
+
+movie(the_godfather_part_iii, 1990).
+
+
