@@ -18,6 +18,9 @@ movie(M, Y), Y>= 2000, Y =< 2006.
 QUESTÃO 04)
 
 
+movie(the_godfather_part_iii, 1991).
+movie(the_godfather_part_iii, 1992).
+movie(the_godfather_part_iii, 1989).
 movie(the_godfather_part_iii, 1990).
 
 
