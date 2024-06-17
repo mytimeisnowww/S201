@@ -1,9 +1,0 @@
-a) pessoa(X, Y), Y > 30.
-
-b) cidade(X, frança).
-
-c) profissao(mary, X).
-
-d) mora(X, berlin).
-
-e) mora(X, berlin), cidade(berlin, Y).
