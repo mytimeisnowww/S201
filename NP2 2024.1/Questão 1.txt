@@ -1,0 +1,12 @@
+a) Verdadeiro
+
+b) Verdadeiro
+
+c) Falso a linha não imprime o valor 1 e 2 e sim do 3 a 32.
+
+d) Verdadeiro
+
+e) Falso o valor é 1024.
+
+
+
